@@ -42,5 +42,3 @@ zlib-devel
 git config --global user.email "ccouzens@gmail.com"
 git config --global user.name "Chris Couzens"
 git config --global core.editor "vim"
-
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
