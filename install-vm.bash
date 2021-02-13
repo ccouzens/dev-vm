@@ -1,4 +1,6 @@
 dnf install -y \
+aspell \
+aspell-en \
 autoconf \
 automake \
 bash-completion \
