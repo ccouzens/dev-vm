@@ -13,6 +13,7 @@ gcc-c++ \
 git \
 gtk3-devel \
 java-latest-openjdk \
+jq \
 libgpg-error-devel \
 libxml2-devel \
 libxslt-devel \
