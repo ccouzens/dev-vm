@@ -17,6 +17,7 @@ jq \
 libgpg-error-devel \
 libxml2-devel \
 libxslt-devel \
+mariadb \
 make \
 nmap-ncat \
 nodejs-yarn \
