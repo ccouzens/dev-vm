@@ -1,6 +1,6 @@
 
 Vagrant.configure("2") do |config|
-  config.vm.box = "fedora/33-cloud-base"
+  config.vm.box = "fedora/40-cloud-base"
 
   config.vm.provision "shell", path: "install-vm.bash"
   config.vm.provision "shell", path: "https://sh.rustup.rs", args: ["-y"], privileged: false
